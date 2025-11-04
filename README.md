@@ -49,26 +49,6 @@ Each query has been **documented with professional headers**, **step-by-step log
 
 ---
 
-## 🧩 Folder Structure
-
-sql-data-analytics-project/
-│
-├── 01_create_database.sql
-├── 02_database_exploration.sql
-├── 03_dimensions_exploration.sql
-├── 04_date_range_exploration.sql
-├── 05_measures_exploration.sql
-├── 06_category_sales_analysis.sql
-├── 07_product_performance.sql
-├── 08_yearly_product_sales.sql
-│
-└── datasets/
-├── gold.dim_customers.csv
-├── gold.dim_products.csv
-└── gold.fact_sales.csv
-
-
----
 
 ## 🚀 Getting Started
 
